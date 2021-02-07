@@ -23,7 +23,7 @@ set $menu dmenu_path | dmenu | xargs swaymsg exec --
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg  /home/barbados/.config/sway/nologo.png fill
+output * bg ~/.config/sway/nologo.png fill
 
 #
 # Example configuration:
